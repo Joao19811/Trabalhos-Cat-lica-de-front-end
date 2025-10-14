@@ -18,7 +18,9 @@ Autor do projeto
 - HTML5  
 - CSS3  
 - JavaScript  
-- Git e GitHub  
+- Git e GitHub
+
+- 
 
 Estrutura do projeto
 index.html → Página inicial (catálogo de produtos)
